@@ -4,6 +4,7 @@
 #include "dragon.h"
 #include "knight_errant.h"
 #include "fight_visitor.h"
+#include "observer.h"
 
 class MockObserver : public IFightObserver {
 public:

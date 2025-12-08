@@ -3,6 +3,7 @@
 #include <memory>
 
 #include "npc.h"
+#include "observer.h"
 
 class FightVisitor {
 private:
