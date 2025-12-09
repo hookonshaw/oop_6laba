@@ -12,6 +12,7 @@ public:
     bool fight(const std::shared_ptr<Queen>& other) override;
     bool fight(const std::shared_ptr<Dragon>& other) override;
     bool fight(const std::shared_ptr<KnightErrant>& other) override;
-    
+// перегрузка оператора fight
+
     std::string getType() const override { return "KnightErrant"; }
 };

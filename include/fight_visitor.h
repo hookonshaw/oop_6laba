@@ -17,6 +17,7 @@ public:
     bool visit(const std::shared_ptr<Queen>& defender);
     bool visit(const std::shared_ptr<Dragon>& defender);
     bool visit(const std::shared_ptr<KnightErrant>& defender);
-    
+// перегрузка оператора fight
+
     std::shared_ptr<NPC> getAttacker() const { return attacker; }
 };

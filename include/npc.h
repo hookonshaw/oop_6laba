@@ -22,6 +22,8 @@ public:
     virtual bool fight(const std::shared_ptr<class Dragon>& other) = 0;
     virtual bool fight(const std::shared_ptr<class KnightErrant>& other) = 0;
 
+// перегрузка оператора fight
+
     std::string getName() const { return name; }
     int getX() const { return x; }
     int getY() const { return y; }

@@ -1,4 +1,0 @@
-/Users/uskgg/Desktop/OOP/oop_6laba/build/CMakeFiles/npc_simulation.dir
-/Users/uskgg/Desktop/OOP/oop_6laba/build/CMakeFiles/npc_tests.dir
-/Users/uskgg/Desktop/OOP/oop_6laba/build/CMakeFiles/edit_cache.dir
-/Users/uskgg/Desktop/OOP/oop_6laba/build/CMakeFiles/rebuild_cache.dir
